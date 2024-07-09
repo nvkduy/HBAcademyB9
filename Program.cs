@@ -146,6 +146,7 @@ namespace HBAcademyB9
             String name = new String("  NguyEn  VaN huNg  ");
             char[] charArray = name.ToCharArray();
             char[] newChar = new char[charArray.Length];
+            int newIndex = 0;
             for (int i = 0; i < charArray.Length; i++)
             {
                 if (charArray[i] >= 'A' && charArray[i] <= 'Z')
