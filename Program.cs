@@ -6,7 +6,7 @@ namespace HBAcademyB9
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.Unicode;
+            Console.OutputEncoding = Encoding.Unicode;d
             Console.InputEncoding = Encoding.Unicode;
         }
     }
